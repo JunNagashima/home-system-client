@@ -6,7 +6,7 @@ const Home = () => {
   const router = useRouter();
 
   const toTrashPage = () => {
-    router.push("/trash1");
+    router.push("/trash-calendar");
   };
 
   return (
